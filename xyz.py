@@ -10,6 +10,7 @@ st.write("""
 # This is a first-level heading
 This is a normal text.
 ## This is a second-level heading
+This is another line of normal text/paragraph.
 """)
 
 st.write(pd.DataFrame({
